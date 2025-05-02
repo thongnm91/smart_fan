@@ -9,7 +9,7 @@ This project uses the **ATtiny2313 microcontroller**, combining **Fast PWM** and
 - **Max speed:** Right-side LED lights up  
 - **Min speed:** Left-side LED turns on  
 
-## Technical Highlights
+## Technical
 
 - **Fast PWM on Timer0** generates the fan control signal  
 - **INT0 and INT1** handle button inputs via external interrupts  
