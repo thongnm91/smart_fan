@@ -2,14 +2,14 @@
 
 This project uses the **ATtiny2313 microcontroller**, combining **Fast PWM** and **external interrupts** to control a 4-wire fan. The idea is simple but effective:
 
-## 🎛️ User Controls
+## User Controls
 
-- 🔘 **Press the left button** to increase fan speed  
-- 🔘 **Press the right button** to decrease fan speed  
-- 💡 **Max speed:** Right-side LED lights up  
-- 💡 **Min speed:** Left-side LED turns on  
+- **Press the left button** to increase fan speed  
+- **Press the right button** to decrease fan speed  
+- **Max speed:** Right-side LED lights up  
+- **Min speed:** Left-side LED turns on  
 
-## 🔧 Technical Highlights
+## Technical Highlights
 
 - **Fast PWM on Timer0** generates the fan control signal  
 - **INT0 and INT1** handle button inputs via external interrupts  
