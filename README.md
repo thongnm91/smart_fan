@@ -1,6 +1,7 @@
 # Smart Fan Control with ATtiny2313
 
 This project uses the **ATtiny2313 microcontroller**, combining **Fast PWM** and **external interrupts** to control a 4-wire fan. The idea is simple but effective:
+[Demo video:](https://www.youtube.com/shorts/Uym_zOKH5ic)
 
 ## User Controls
 
