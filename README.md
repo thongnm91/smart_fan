@@ -18,7 +18,7 @@ This project uses the **ATtiny2313 microcontroller**, combining **Fast PWM** and
 - **Speed changes in steps**, with duty cycle limits checked to avoid overflow or underflow  
 - **LED indicators** on **PB6** (min) and **PB7** (max) provide visual feedback  
 
-##PCB design by PADS
+## PCB design by PADS
 ![](IMG_20250901_0001.jpg)
 ![](IMG_20250901_0002.jpg)
 ---
