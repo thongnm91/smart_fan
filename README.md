@@ -18,9 +18,11 @@ This project uses the **ATtiny2313 microcontroller**, combining **Fast PWM** and
 - **Speed changes in steps**, with duty cycle limits checked to avoid overflow or underflow  
 - **LED indicators** on **PB6** (min) and **PB7** (max) provide visual feedback  
 
+##PCB design by PADS
+![](IMG_20250901_0001.jpg)
+![](IMG_20250901_0002.jpg)
 ---
 
 This approach provides clean, responsive fan speed control using just a few lines of code and **no delay functions**. All logic is handled through **interrupts**, making it efficient and **power-friendly** — ideal for embedded systems with limited resources!
 
 <img width="444" height="624" alt="image" src="https://github.com/user-attachments/assets/8eccc872-63bd-4faf-b144-53cd5218d123" />
-# Smart Fan Control with ATtiny2313
